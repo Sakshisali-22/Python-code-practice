@@ -6,4 +6,4 @@ if ("twinkle"in content):
 else:
     print("The word twinkle is not present in the content")
     
-f.close()
+f.close(
